@@ -17,7 +17,7 @@ This project implements a **hybrid compression technique** combining **Huffman C
 
 Project contributor:
 
-- [Zihad Khan](https://github.com/Zihad107)
+- [Nushrat Jaben Aurnima](https://github.com/NushratJabenAurnima)
 
 > _Thanks for the valuable contribution to the development of this system._
 
